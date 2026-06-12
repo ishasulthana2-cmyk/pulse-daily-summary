@@ -1,3 +1,4 @@
+print("NEW VERSION")
 import requests
 
 def get_weather():
